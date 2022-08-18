@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Stan!
+
+---
+
+**I am a Cybersecurity student, who enjoys building programs that break other programs!**
+
 
 #### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ameliorate.png" alt="TryHackMe">
