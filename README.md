@@ -9,7 +9,7 @@
 #### Links
 
 - TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ameliorate.png" alt="TryHackMe Badge">
+<script src="https://tryhackme.com/badge/1006152"></script>
 
 <!--
 **StanimirIglev/StanimirIglev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
